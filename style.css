@@ -1,0 +1,16 @@
+body{
+    background-color:#863b87;
+    font-family:cursive;
+    font-size: 20;
+    text-align: center;
+    background:linear-gradient(#4c175a 0%,#9a52a3 100%);
+}
+.line{
+    height:6px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+.contact1{
+    background-color:#4c175a;
+}
